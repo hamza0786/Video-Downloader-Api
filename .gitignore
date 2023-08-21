@@ -1,0 +1,7 @@
+/local.properties
+/secring.gpg
+/.gradle
+/build
+/secring.txt
+/private_base_64.key
+/src/commonTest/
